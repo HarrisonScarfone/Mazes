@@ -30,6 +30,8 @@ As of now, there is no user input required.  A window will pop up and the run wi
 
 Looks smoother when run vs this animation but hopefully this gives an idea of what the code does.
 
+![Failed to load example GIF](/sample_maze_run.gif?raw=true "Maze Gen/Solve Sample Run")
+
 ## Generation Algorithms
 
 ### Randomized Prim's (or at least my take on it) - Currently hardcoded as the only generation method
